@@ -1,2 +1,3 @@
 # finalproject
  Final Project
+To run my code, all you have to do is type 'finalProject' into the command window. From there, a window will pop up. There will be boxes with labels in them saying what they are. Double click any of these to change their contents. The x and y coordinates are to be entered in the form of '1,2,3', i.e. each number separated by a comma. To save yourself time, these lists need to be the same length. Before you click graph, you can change the color and style of the data that you are graphing. The reset button will completely reset everything, including axis labels, inputted data, and plot title. 
